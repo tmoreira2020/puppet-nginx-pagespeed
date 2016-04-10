@@ -1,0 +1,16 @@
+{
+  "name": "tmoreira2020-nginx_pagespeed",
+  "version": "1.0.0",
+  "author": "tmoreira2020",
+  "summary": "Nginx Pagespeed module that is installed from the tarballs",
+  "license": "Apache 2.0",
+  "source": "https://github.com/tmoreira2020/puppet-nginx_pagespeed",
+  "project_page": "https://github.com/tmoreira2020/puppet-nginx_pagespeed",
+  "issues_url": "https://github.com/tmoreira2020/puppet-nginx_pagespeed/issues",
+  "dependencies": [
+    {
+      "name": "maestrodev/wget",
+      "version_requirement": ">=1.0.0"
+    }
+  ]
+}
